@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Carlos Daniel
+# 👨‍💻 Carlos 
 
 # 👋 Olá! Eu sou o Carlos Daniel Dantas
 
@@ -10,33 +10,36 @@
 
 ## 🚀 Sobre Mim
 
-Sou movido pela curiosidade e pela vontade de transformar ideias em soluções.  
-Adoro encontrar maneiras de tornar tarefas repetitivas mais eficientes por meio da programação.  
-Me interesso por desenvolvimento web e automações inteligentes que fazem a diferença no dia a dia.
+Tenho 17 anos e moro em Araraquara. Atualmente, curso o ensino médio no SESI e Desenvolvimento de Sistemas no SENAI, o que tem me proporcionado uma boa base teórica e prática.
+
+Sou apaixonado por Segurança da Informação e Desenvolvimento de Sistemas, áreas nas quais pretendo construir minha carreira profissional.
+
+Busco uma oportunidade de estágio na área de tecnologia para aplicar meus conhecimentos, ganhar experiência profissional e contribuir em projetos desafiadores, sempre com foco no meu desenvolvimento contínuo.
 
 ---
 
-## 🧰 Habilidades e Tecnologias
+## 🤖 Habilidades e Tecnologias
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
-
-- 🐍 **Python** – Scripts, automações e lógica de programação  
-- 🌐 **HTML5** – Estruturação de páginas web  
-- 🎨 **CSS3** – Estilização e design responsivo  
-- 🗄️ **SQL** – Manipulação, consulta e modelagem de dados
-
   
+---
+ “A tecnologia move o mundo — e eu quero fazer parte dessa mudança.”  
+ — Carlos Daniel Dantas 
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlos-Daniel-Dantas/Carlos-Daniel-Dantas/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlos-Daniel-Dantas/Carlos-Daniel-Dantas/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Carlos-Daniel-Dantas/Carlos-Daniel-Dantas/output/github-contribution-grid-snake.svg" style="display: block; margin: auto;">
+  </picture>
+</div>
+
 
 ---
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
 
-> “A tecnologia move o mundo — e eu quero fazer parte dessa mudança.”  
-> — Carlos Daniel Dantas
+
