@@ -14,7 +14,7 @@ I’m passionate about Information Security and Systems Development, fields wher
 
 I’m looking for an internship opportunity in the tech area to apply my knowledge, gain professional experience, and contribute to challenging projects, always focusing on my continuous growth.
 
----
+
 ---
 
 ## 🤖 Habilidades e Tecnologias
@@ -25,6 +25,24 @@ I’m looking for an internship opportunity in the tech area to apply my knowled
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
   
+
+---
+
+## 🔗 Conecte-se Comigo
+
+<p align="left">
+  <a href="https://github.com/Carlos-Daniel-Dantas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Carlos--Daniel--Dantas-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="mailto:carlos.d.dantas6@aluno.senai.br" target="_blank">
+    <img src="https://img.shields.io/badge/M%20EMAIL-carlos.d.dantas6%40aluno.senai.br-00FF85?style=for-the-badge&logo=gmail&logoColor=black&labelColor=2c2c2c" alt="Email Badge"/>
+  </a>
+</p>
+
+
 ---
 
 "Technology moves the world — and I want to be part of that change."
