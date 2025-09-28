@@ -1,21 +1,20 @@
-# 👨‍💻 Carlos 
-
-# 👋 Olá! Eu sou o Carlos Daniel Dantas
-
-🎓 Estudante de Desenvolvimento de Sistemas no SENAI Araraquara  
-🔍 Explorando o universo da tecnologia com foco em automações, web e banco de dados  
-🌱 Sempre aprendendo e buscando novos desafios
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hello,+my+name+is+Carlos+Daniel+Dantas" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Sobre Mim
+🚀 About Me
 
-Tenho 17 anos e moro em Araraquara. Atualmente, curso o ensino médio no SESI e Desenvolvimento de Sistemas no SENAI, o que tem me proporcionado uma boa base teórica e prática.
+I’m 17 years old and currently live in Araraquara. I’m attending high school at SESI and studying Systems Development at SENAI, which has given me a solid theoretical and practical foundation.
 
-Sou apaixonado por Segurança da Informação e Desenvolvimento de Sistemas, áreas nas quais pretendo construir minha carreira profissional.
+I’m passionate about Information Security and Systems Development, fields where I plan to build my professional career.
 
-Busco uma oportunidade de estágio na área de tecnologia para aplicar meus conhecimentos, ganhar experiência profissional e contribuir em projetos desafiadores, sempre com foco no meu desenvolvimento contínuo.
+I’m looking for an internship opportunity in the tech area to apply my knowledge, gain professional experience, and contribute to challenging projects, always focusing on my continuous growth.
 
+---
 ---
 
 ## 🤖 Habilidades e Tecnologias
@@ -27,8 +26,10 @@ Busco uma oportunidade de estágio na área de tecnologia para aplicar meus conh
 </p>
   
 ---
- “A tecnologia move o mundo — e eu quero fazer parte dessa mudança.”  
- — Carlos Daniel Dantas 
+
+"Technology moves the world — and I want to be part of that change."
+— Carlos Daniel Dantas 
+
 ---
 
 <div align="center">
@@ -38,7 +39,6 @@ Busco uma oportunidade de estágio na área de tecnologia para aplicar meus conh
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Carlos-Daniel-Dantas/Carlos-Daniel-Dantas/output/github-contribution-grid-snake.svg" style="display: block; margin: auto;">
   </picture>
 </div>
-
 
 ---
 
