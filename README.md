@@ -1,6 +1,7 @@
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hello,+my+name+is+Carlos+Daniel+Dantas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=800&lines=Hello,+my+name+is+Carlos+Daniel+Dantas" alt="Typing SVG" />
   </a>
 </p>
 
