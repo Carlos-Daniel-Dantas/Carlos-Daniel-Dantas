@@ -15,17 +15,6 @@ I’m passionate about Information Security and Systems Development, fields wher
 
 I’m looking for an internship opportunity in the tech area to apply my knowledge, gain professional experience, and contribute to challenging projects, always focusing on my continuous growth.
 
-
----
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net" alt="Python" width="40" height="40""")/>>
-  <img src="https://cdn.jsdelivr.net" alt="Java" width="40" height="40""")/>>
-  <img src="https://cdn.jsdelivr.net" alt="HTML5" width="40" height="40""")/>>
-  <img src="https://cdn.jsdelivr.net" alt="CSS3" width="40" height="40""")/>>
-  <img src="https://cdn.jsdelivr.net" alt="JavaScript" width="40" height="40""")/>>
-</p>
-
 ---
 
 [![Carlos-Daniel-Dantas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Daniel-Dantas&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
