@@ -21,7 +21,7 @@
   </tr>
 </table>
 
-* 🌍 Baseado em **Sua Cidade, Brasil**
+* 🌍 Baseado em Araraquara - SP
 * 📧 Entre em contato: carlos.d.dantas6@aluno.senai.br
 * 🧠 Explorando **Inteligência Artificial e UX**
 * ⚡ Sempre aprendendo novas tecnologias para me manter à frente
