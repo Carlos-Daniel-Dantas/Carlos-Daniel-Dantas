@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://imgur.com/a/CejGd3Q" width="100%" alt="Banner Carlos Daniel" />
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -5,20 +8,35 @@
   </a>
 </p>
 
+
+
+
+## 🚀 "Codando no futuro, mas resolvendo bugs como um detetive."
+
+<table align="right">
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
+
+* 🌍 Baseado em **Sua Cidade, Brasil**
+* 📧 Entre em contato: carlos.d.dantas6@aluno.senai.br
+* 🧠 Explorando **Inteligência Artificial e UX**
+* ⚡ Sempre aprendendo novas tecnologias para me manter à frente
+
 ---
 
-🚀 About Me
+### 🛠️ Tecnologias e Ferramentas
 
-I’m 17 years old and currently live in Araraquara. I’m attending high school at SESI and studying Systems Development at SENAI, which has given me a solid theoretical and practical foundation.
-
-I’m passionate about Information Security and Systems Development, fields where I plan to build my professional career.
-
-I’m looking for an internship opportunity in the tech area to apply my knowledge, gain professional experience, and contribute to challenging projects, always focusing on my continuous growth.
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
-
-[![Carlos-Daniel-Dantas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Daniel-Dantas&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Daniel-Dantas&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -39,11 +57,6 @@ I’m looking for an internship opportunity in the tech area to apply my knowled
 
 ---
 
-"Technology moves the world — and I want to be part of that change."
-— Carlos Daniel Dantas 
-
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlos-Daniel-Dantas/Carlos-Daniel-Dantas/output/github-contribution-grid-snake-dark.svg">
@@ -52,6 +65,15 @@ I’m looking for an internship opportunity in the tech area to apply my knowled
   </picture>
 </div>
 
----
 
+### 📈 Estatísticas do GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Contador de Visualizações" />
+</div>
