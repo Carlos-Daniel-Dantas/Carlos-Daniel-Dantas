@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/a/CejGd3Q" width="100%" alt="Banner Carlos Daniel" />
+  <img src="https://i.imgur.com/D9fKY9Q.png" width="100%" alt="Banner Carlos Daniel">
 </div>
 
 <p align="center">
